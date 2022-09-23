@@ -1,0 +1,19 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "description": "Queue data type implementation in Typescript",
+  "main": "queue.ts",
+  "private": true,
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:suchy/queue.git"
+  },
+  "author": "Mateusz Suchoń <kontakt@suchego.pl>",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.23.4"
+  }
+}
